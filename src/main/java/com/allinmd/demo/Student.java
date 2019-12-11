@@ -4,6 +4,10 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * 学生类
+ * @author liutieqiang
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
