@@ -52,7 +52,7 @@ public class ExcelParse {
     }
 
     public static void main(String[] args) throws Exception {
-        new ExcelParse().parse("");
+         ExcelParse.parse("");
     }
 }
 
