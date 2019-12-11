@@ -5,7 +5,7 @@ import org.apache.poi.xssf.eventusermodel.XSSFSheetXMLHandler.SheetContentsHandl
 import org.apache.poi.xssf.usermodel.XSSFComment;
 
 /**
- * 逐行处理的处理器
+ * 表格逐行处理的处理器
  *      实现SheetContentsHandler接口
  */
 public class SheetHandler implements SheetContentsHandler {
