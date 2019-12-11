@@ -367,6 +367,7 @@ public class ExcelDemo {
     }
 
     public static void main(String[] args) {
+        //lambda练习
         Student student1 = new Student("苏州",180,123,"男");
         Student student2 = new Student("苏州1",182,13,"男");
         Student student3 = new Student("苏州2",18,43,"男");
